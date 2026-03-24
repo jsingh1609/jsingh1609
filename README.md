@@ -119,14 +119,6 @@ class JasjeetSingh:
 
 ---
 
-<h2 align="center">🏅 Achievements</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jsingh1609&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=4"/>
-</div>
-
----
-
 <h2 align="center">✍️ Dev Quote of the Day</h2>
 
 <div align="center">
