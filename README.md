@@ -102,13 +102,7 @@ class JasjeetSingh:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jsingh1609&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" width="49%"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=jsingh1609&theme=nightowl&hide_border=false" width="49%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsingh1609&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsingh1609&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%"/>
 </div>
 
 <br/>
