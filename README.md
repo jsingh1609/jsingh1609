@@ -21,11 +21,13 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jsingh1609&style=for-the-badge&color=70a5fd&label=PROFILE+VIEWS"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/jsingh1609?style=for-the-badge&color=70a5fd&labelColor=1a1b27&label=FOLLOWERS"/>
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ### 💫 About Me
 
@@ -66,6 +68,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Formspree](https://img.shields.io/badge/Formspree-FF6B6B?style=for-the-badge&logo=formspree&logoColor=white)
 
 **AI / ML / Data Science**
 
@@ -101,6 +104,12 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsingh1609&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="40%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jsingh1609&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
 
 ---
